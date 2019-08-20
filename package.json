@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "vue": "^2.6.10",
-    "vue-library-sample": "^0.0.1"
+    "vue-library-sample": "^0.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-eslint": "^3.10.0",
