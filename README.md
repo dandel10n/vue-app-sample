@@ -15,15 +15,9 @@ yarn run serve
 yarn run build
 ```
 
-### Run your tests
-```
-yarn run test
-```
+### Project uses `webpack-bundle-analyzer` and during the build will open separate dev server for visual bundle size parser
 
 ### Lints and fixes files
 ```
 yarn run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
