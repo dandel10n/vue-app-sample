@@ -1,4 +1,4 @@
-# test-app
+# Vue app for testing webpack tree shaking
 
 ## Project setup
 ```
